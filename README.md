@@ -96,31 +96,31 @@ Proje \*\*İlişkisel Veritabanı (RDBMS)\*\* mantığına uygun olarak tasarlan
 
 
 
-!\[Giriş Ekranı](resimler/giris\_paneli.png)
+!\[Giriş Ekranı](Resimler/giris\_paneli.png)
 
-!\[Hasta Giriş Ekranı](resimler/hasta\_giris\_paneli.png)
+!\[Hasta Giriş Ekranı](Resimler/hasta\_giris\_paneli.png)
 
-!\[Hasta Detay Ekranı](resimler/hasta\_detay\_paneli.png)
+!\[Hasta Detay Ekranı](Resimler/hasta\_detay\_paneli.png)
 
-!\[Hasta Kayıt Ekranı](resimler/hasta\_kayit\_paneli.png)
+!\[Hasta Kayıt Ekranı](Resimler/hasta\_kayit\_paneli.png)
 
-!\[Doktor Giriş Ekranı](resimler/doktor\_giris\_paneli.png)
+!\[Doktor Giriş Ekranı](Resimler/doktor\_giris\_paneli.png)
 
-!\[Doktor Detay Ekranı](resimler/doktor\_detay\_paneli.png)
+!\[Doktor Detay Ekranı](Resimler/doktor\_detay\_paneli.png)
 
-!\[Doktor Kayıt Ekranı](resimler/doktor\_kayit\_paneli.png)
+!\[Doktor Kayıt Ekranı](Resimler/doktor\_kayit\_paneli.png)
 
-!\[Sekreter Giriş Ekranı](resimler/sekreter\_giris\_paneli.png)
+!\[Sekreter Giriş Ekranı](Resimler/sekreter\_giris\_paneli.png)
 
-!\[Sekreter Detay Ekranı](resimler/sekreter\_detay\_paneli.png)
+!\[Sekreter Detay Ekranı](Resimler/sekreter\_detay\_paneli.png)
 
-!\[Branş Ekleme Ekranı](resimler/brans\_ekleme\_paneli.png)
+!\[Branş Ekleme Ekranı](Resimler/brans\_ekleme\_paneli.png)
 
-!\[Duyurular Ekranı](resimler/duyuru\_paneli.png)
+!\[Duyurular Ekranı](Resimler/duyuru\_paneli.png)
 
-!\[Geçmiş Randevular Ekranı](resimler/gecmis\_randevular\_paneli.png)
+!\[Geçmiş Randevular Ekranı](Resimler/gecmis\_randevular\_paneli.png)
 
-!\[Randevular Ekranı](resimler/randevu\_paneli.png)
+!\[Randevular Ekranı](Resimler/randevu\_paneli.png)
 
 
 
