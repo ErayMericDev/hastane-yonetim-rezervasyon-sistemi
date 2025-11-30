@@ -114,7 +114,7 @@ Proje \*\*İlişkisel Veritabanı (RDBMS)\*\* mantığına uygun olarak tasarlan
 
 !\[Sekreter Detay Ekranı](Resimler/sekreter\_detay\_paneli.png)
 
-!\[Branş Ekleme Ekranı](Resimler/brans\_ekleme\_paneli.png)
+!\[Branş Ekleme Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/brans_ekleme_paneli.png?raw=true)
 
 !\[Duyurular Ekranı](Resimler/duyuru\_paneli.png)
 
