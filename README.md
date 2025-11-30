@@ -96,31 +96,31 @@ Proje \*\*İlişkisel Veritabanı (RDBMS)\*\* mantığına uygun olarak tasarlan
 
 
 
-!\[Giriş Ekranı](Resimler/giris\_paneli.png)
+!\[Giriş Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/giris_paneli.png)
 
-!\[Hasta Giriş Ekranı](Resimler/hasta\_giris\_paneli.png)
+!\[Hasta Giriş Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/hasta_giris_paneli.png)
 
-!\[Hasta Detay Ekranı](Resimler/hasta\_detay\_paneli.png)
+!\[Hasta Detay Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/hasta_detay_paneli.png)
 
-!\[Hasta Kayıt Ekranı](Resimler/hasta\_kayit\_paneli.png)
+!\[Hasta Kayıt Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/hasta_kayit_paneli.png)
 
-!\[Doktor Giriş Ekranı](Resimler/doktor\_giris\_paneli.png)
+!\[Doktor Giriş Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/doktor_giris_paneli.png)
 
-!\[Doktor Detay Ekranı](Resimler/doktor\_detay\_paneli.png)
+!\[Doktor Detay Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/doktor_detay_paneli.png)
 
-!\[Doktor Kayıt Ekranı](Resimler/doktor\_kayit\_paneli.png)
+!\[Doktor Kayıt Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/doktor_kayit_paneli.png)
 
-!\[Sekreter Giriş Ekranı](Resimler/sekreter\_giris\_paneli.png)
+!\[Sekreter Giriş Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/sekreter_giris_paneli.png)
 
-!\[Sekreter Detay Ekranı](Resimler/sekreter\_detay\_paneli.png)
+!\[Sekreter Detay Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/sekreter_detay_paneli.png)
 
 !\[Branş Ekleme Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/brans_ekleme_paneli.png)
 
-!\[Duyurular Ekranı](Resimler/duyuru\_paneli.png)
+!\[Duyurular Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/duyuru_paneli.png)
 
-!\[Geçmiş Randevular Ekranı](Resimler/gecmis\_randevular\_paneli.png)
+!\[Geçmiş Randevular Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/gecmis_randevular_paneli.png)
 
-!\[Randevular Ekranı](Resimler/randevu\_paneli.png)
+!\[Randevular Ekranı](https://github.com/ErayMericDev/hastane-yonetim-rezervasyon-sistemi/blob/main/Resimler/randevu_paneli.png)
 
 
 
